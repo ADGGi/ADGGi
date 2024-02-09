@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!🍍&desc=This%20is%20ADGGi%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
-
-<br><br>
 <div align=center>
   <h2>🛠️ Data Engineering</h2>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=POSTGRESQL&logoColor=white"/>
